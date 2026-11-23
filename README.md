@@ -16,9 +16,9 @@ Looking ahead, I am interested in extending these ideas to:
 ### 📄 Research Projects
 
 - **EDSTrack** — [An entropy-driven semantic autoregressive tracker that leverages vision-language reasoning to robustly handle occlusion and target disappearance in real-time tracking].
-- **QIRTrack** — [QIRTrack mitigates confident drift in single-object tracking—persistent localisation errors despite high tracker confidence—by verifying target identity on demand and using agreement or conflict between identity judgements and localisation quality estimates to decide whether to retain the current prediction or attempt recovery.]. [Code](https://github.com/FreeneyDong/QIRTrack)
+- **QIRTrack** — [QIRTrack mitigates confident drift in single-object tracking—persistent localisation errors despite high tracker confidence—by verifying target identity on demand and using agreement or conflict between identity judgements and localisation quality estimates to decide whether to retain the current prediction or attempt recovery]. [Code](https://github.com/FreeneyDong/QIRTrack)
 
 ### 📫 Contact
 
 - Email: 2024302121143@whu.edu.cn
-- Google Scholar: [https://scholar.google.com/citations?user=RiMHq7EAAAAJ]
+- Google Scholar: https://scholar.google.com/citations?user=RiMHq7EAAAAJ
